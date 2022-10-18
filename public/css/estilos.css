@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.divzapas{
+display: flex;
+flex-wrap: wrap;
+margin-left: 14%;
+
+}
+
+.titulos {
+    text-align: center;
+}
+
+.card{
+    margin: 80px;
+    text-align: center;
+    border-style: none;
+
+}
+
+.home{
+    text-align: center;
+}
+
+.botoncont{
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.form{
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-bottom: 5%;
+    width: 60%;
+}
+
+.logo{
+    width: 1%;
+}
+h1{
+    text-align: center;
+}
+
+.divprimero{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.divdos{
+    text-align: center;
+}
+
+h2{
+    margin-bottom: 10%;
+}
+
+.imagenes{
+    margin-left: 18%;
+}
+
+.textimagen{
+    text-align: left;
+    
+}
+
+.imagjor{
+    text-align: center;
+    margin-top: 5%;
+}
